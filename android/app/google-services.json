@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "645091384039",
+    "firebase_url": "https://healthapp-1c01e-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "healthapp-1c01e",
+    "storage_bucket": "healthapp-1c01e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645091384039:android:46c46bebbda5cc2ee8a042",
+        "android_client_info": {
+          "package_name": "com.aayush.healthapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "645091384039-ic23meo9mrghikaqfq2eqkjtr9kcekho.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aayush.healthapp",
+            "certificate_hash": "532eaf5c35f51fc031fca5e58af45faef05a99b8"
+          }
+        },
+        {
+          "client_id": "645091384039-lk4l93jnqe1p8vg0pr5hcb0b4ij08u6o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aayush.healthapp",
+            "certificate_hash": "12616b57f6da5bd24ba3c5efae5fbec37dde8a0a"
+          }
+        },
+        {
+          "client_id": "645091384039-qahvr8b7ope1df4cmb1fo2bs840g05ej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFLUOAltp_I3EWL0Fmd_d9YMFY6Mu09QU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "645091384039-qahvr8b7ope1df4cmb1fo2bs840g05ej.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
